@@ -12,7 +12,7 @@
             <input class="textview" name="textview">
         </form>
         <div class="grid-container">
-            <input class="grid-item" type="button" value="AC" onclick="clean()">
+            <input class="grid-item" type="button" value="C" onclick="clean()">
             <input class="grid-item" type="button" value="<" onclick="back()">
             <input class="grid-item" type="button" value="/" onclick="insert('/')">
             <input class="grid-item" type="button" value="X" onclick="insert('*')">
