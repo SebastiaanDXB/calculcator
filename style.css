@@ -2,13 +2,13 @@ body {
     background: cadetblue;
 }
 #main {
-    width: 70%;
-    min-width: 300px;
+    width: 90%;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     background-color: cadetblue;
+    max-width: 500px;
 }
 .textview {
     display: block;
@@ -26,6 +26,7 @@ body {
     grid-template-columns: auto auto auto auto;
     background-color: cadetblue;
     margin: auto;
+
 }
 .grid-item {
     background-color: rgba(255, 255, 255, 0.5);
