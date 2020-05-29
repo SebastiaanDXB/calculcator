@@ -39,6 +39,7 @@ body {
     text-align: center;
     border-radius: 5px;
     margin: 2px;
+    cursor: pointer;
 }
 .grid-item:hover {
     background-color: rgb(134, 205, 207);
